@@ -15,4 +15,5 @@
 - [#12 Android下fiddler抓取https请求指南](https://github.com/mopduan/team/issues/12)
 - [#13 VPN直连，导致 Fiddler 和 Charles 抓包工具无法正常进行抓包解决方案](https://github.com/mopduan/team/issues/13)
 - [#14 jquery不同js模块添加domready，代码报错互相影响分析](https://github.com/mopduan/team/issues/15)
+- [#15 小米新应用踩坑总结](https://github.com/mopduan/team/issues/14)
 
