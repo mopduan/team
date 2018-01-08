@@ -17,5 +17,6 @@
 - [#14 jquery不同js模块添加domready，代码报错互相影响分析](https://github.com/mopduan/team/issues/15)
 - [#15 小米新应用踩坑总结](https://github.com/mopduan/team/issues/14)
 - [#16  jquery不同js模块添加domready，domready函数执行报错互相影响分析](https://github.com/mopduan/team/issues/15)
+- [#17  wenke-dev中webpack-middleware与vue热替换实践](https://github.com/mopduan/team/issues/17)
 
 
