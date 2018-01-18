@@ -18,5 +18,6 @@
 - [#15 小米新应用踩坑总结](https://github.com/mopduan/team/issues/14)
 - [#16  jquery不同js模块添加domready，domready函数执行报错互相影响分析](https://github.com/mopduan/team/issues/15)
 - [#17  wenke-dev中webpack-middleware与vue热替换实践](https://github.com/mopduan/team/issues/17)
-
+- [#18 Umeditor插件的支持异步加载文件的说明](https://github.com/mopduan/team/issues/18)
+- [#19 pm2的cluster模式与fork模式的区别](https://github.com/mopduan/team/issues/19)
 
