@@ -20,4 +20,5 @@
 - [#17  wenke-dev中webpack-middleware与vue热替换实践](https://github.com/mopduan/team/issues/17)
 - [#18 Umeditor插件的支持异步加载文件的说明](https://github.com/mopduan/team/issues/18)
 - [#19 pm2的cluster模式与fork模式的区别](https://github.com/mopduan/team/issues/19)
+- [#20 React-loadable基于组建的代码拆分](https://github.com/mopduan/team/issues/20)
 
