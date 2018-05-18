@@ -22,5 +22,5 @@
 - [#19 react-loadable实现异步加载](https://github.com/mopduan/team/issues/20)
 - [#20 移动端使用Charles抓取https请求指南](https://github.com/mopduan/team/issues/23)
 - [#21 styled-components 样式组件](https://github.com/mopduan/team/issues/24)
-
+- [#22 如何在小程序中实现语音识别功能](https://github.com/mopduan/team/issues/25)
 
