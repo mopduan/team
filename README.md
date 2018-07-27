@@ -24,4 +24,5 @@
 - [#21 styled-components 样式组件](https://github.com/mopduan/team/issues/24)
 - [#22 如何在小程序中实现语音识别功能](https://github.com/mopduan/team/issues/25)
 - [#22 百科交接](https://github.com/mopduan/team/issues/27)
+- [#23 微信小程序wx.request中返回值的编码](https://github.com/mopduan/team/issues/28)
 
