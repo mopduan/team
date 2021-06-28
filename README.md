@@ -25,4 +25,5 @@
 - [#22 如何在小程序中实现语音识别功能](https://github.com/mopduan/team/issues/25)
 - [#22 windows下配置Fiddler证书信任](https://github.com/mopduan/team/issues/27)
 - [#23 微信小程序wx.request中返回值的编码](https://github.com/mopduan/team/issues/28)
+- [#23 一次 Node.js 服务线上问题引出的 DNS 缓存方案研究与思考](https://github.com/mopduan/team/issues/29)
 
